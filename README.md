@@ -1,4 +1,5 @@
 # reaction-timer
+This is a web page which serves as a game. It is used to measurehow fast a user can click on the green box.
 
 ## Project setup
 ```
